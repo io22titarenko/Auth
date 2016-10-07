@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  width: 100%;
+  background-color: #AFEEEE;
+  }
+.form{
+  margin-top: 100px;
+  margin-left: 100px;
+  height: 400px;
+  width: 300px;
+  background-color: #FFFFFF;
+}
+.form input{
+  float: left;
+  margin-left: 60px;
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+#nick{
+  margin-top: 150px;
+}
+#enter{
+  width: 170px;
+  height: 50px;
+  background: #00BFFF;
+  font-weight: bold;
+  font-size: 14px;
+}
